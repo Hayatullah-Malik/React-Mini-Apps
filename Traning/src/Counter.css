@@ -1,0 +1,33 @@
+
+html{
+    font-size: 62.5%;
+}
+.counter--contianer{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.count,.red--count{
+    font-size:10rem ;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 2rem;
+}
+.red--count{
+    color:rgb(176, 76, 76);
+}
+
+.btn{
+    font-size: 1.8rem;
+    padding: .8rem 1.5rem;
+    margin: 0 .5rem;
+    cursor: pointer;
+    background-color: #1098ade7;
+    color:#fff;
+    border: none;
+    border-radius: .5rem;
+}
+.btn:hover{
+    background-color: #1098ad;
+}
